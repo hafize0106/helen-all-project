@@ -1,0 +1,20 @@
+!AWSTemplateFormatVersion: 2010-09-09
+Description: |
+  ekip capstone calısma 
+Parameters:
+  MyVPC:
+    Description: vpc seciniz
+    Type: List<AWS::EC2::VPC::Id>
+
+
+
+
+
+
+Resources:
+  
+
+
+
+
+Outputs:
